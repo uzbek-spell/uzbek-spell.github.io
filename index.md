@@ -123,6 +123,10 @@ Lemmatization:
 
 This material is based upon work supported by the Modernizing Uzbekistan National Innovation System (MUNIS) project under Grant REP-2/6 in 2022-2024 years.
 
-<div style="font-size: 0.8em">
-This website template was adapted from Brent Yi's project page for <a href="https://brentyi.github.io/tilted/">TILTED</a>.
+<div style="
+  font-size: 0.8em;
+  margin-top: 2em;
+  text-align: center;
+">
+Website template was adapted from Brent Yi's project page for <a href="https://brentyi.github.io/tilted/">TILTED</a>.
 </div>
